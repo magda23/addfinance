@@ -1,0 +1,404 @@
+@media(min-width: 1600px) {
+    .container {
+        max-width: 1590px;
+    }
+}
+
+@media(max-width: 1599px) {
+    .logo_ {
+        width: 200px;
+        margin-right: 40px;
+    }
+
+    .nav_li {
+        margin-right: 20px;
+    }
+
+    .search_input {
+        width: 150px;
+    }
+
+    .statistic_img {
+     width: 600px;
+     top: 150px;
+    }
+}
+
+@media(max-width: 1440px) {
+    .partner_txt {
+        padding: 50px 30px 0 30px;
+    }
+
+    .partner_img {
+        height: 550px;
+    }
+
+    .help_title {
+        font-size: 30px;
+    }
+
+    .info_items {
+        width: 100%;
+    }
+
+    .s1 .service_img {
+        height: 550px;
+    }
+
+    .btn_ {
+        margin-bottom: 20px;
+    }
+
+    .service_img {
+        height: 100%;
+    }
+
+    .service_ {
+        font-size: 16px;
+    }
+
+    .service_txt {
+        padding: 30px 30px 0 50px;
+    }
+
+    .team_member_ {
+        margin-bottom: 35px;
+    }
+
+    .join_ {
+        margin-bottom: 50px;
+    }
+    .financial_service_block .list_block{
+        width: 100%;
+    }
+}
+
+@media(max-width: 1199px) {
+    .about_info{
+        width: 100%;
+    }
+    .logo_ {
+        width: 200px;
+        margin-right: 20px;
+    }
+
+    .nav_li {
+        margin-right: 15px;
+    }
+
+    .nav_a {
+        font-size: 14px;
+    }
+
+    .search_ {
+        margin: 0;
+    }
+
+    .search_input {
+        width: 100px;
+    }
+
+    .lang_bar>div {
+        font-size: 14px;
+    }
+    .hero_section{
+        height: 700px;
+    }
+    .main_title {
+        font-size: 30px;
+    }
+
+    .main_txt {
+        font-size: 14px;
+    }
+
+    .statistic_img {
+        right: -100px;
+        top: 80px;
+        width: 600px;
+    }
+
+    .statistic_img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+    .partner_position_{
+        font-size: 16px;
+    }
+    .name_{
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .info_items{
+        font-size: 18px;
+    }
+    .service_txt_info{
+        font-size: 16px;
+    }
+    .service_title{
+        font-size: 18px;
+    }
+    .btn_ a,
+    .join_ {
+        font-size: 16px;
+    }
+    .team_member_{
+        font-size: 25px;
+    }
+    .help_title{
+        font-size: 25px;
+    }
+    .how_to_help{
+        padding: 35px 0;
+    }
+    .service_txt_info{
+        width: 100%;
+        padding: 0 20px;
+    }
+    .blog_info_txt{
+        width: 100%;
+    }
+    .blog_txt_p{
+        font-size: 16px;
+    }
+    .news_title{
+        font-size: 25px;
+    }
+    .news_subscribe{
+        width: 650px;
+    }
+    .contact_items p{
+        font-size: 16px;
+    }
+    .list_block,
+    .search_result_ {
+        width: 100%;
+    }
+    .subscribe_box{
+        margin-top: 0;
+    }
+    .search_items {
+        width: 650px;
+    }
+}
+@media(max-width: 991px){
+    .search_input{
+        width: 200px;
+    }
+    .header_{
+        position: initial;
+        background-color: #051c2c;
+    }
+    .dark_header{
+        background-color: #051c2c;
+    }
+    html{
+        overflow-x: hidden;
+    }
+    .lang_bar{
+        color: #061739;
+    }
+    .hero_section{
+        padding-top: 50px;
+    }
+    .statistic_img{
+        top: 200px;
+    }
+    .nav_li{
+        margin-bottom: 20px;
+    }
+    .nav_li:last-child {
+        margin-bottom: 20px;
+    }
+    .service_wrapper{
+        flex-direction: column;
+    }
+    .service_items{
+        width: 100%;
+        justify-content: center;
+    }
+    .service_img{
+        height: 350px;
+    }
+    .team_block {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .s1 .service_img{
+        height: 350px;
+    }
+    .about_us_section{
+        height: 250px;
+    }
+    .rating_box h2{
+        font-size: 35px;
+        margin-bottom: 35px;
+    }
+    .map_block{
+        height: 400px;
+    }
+    .other_services_section{
+        background-color: #DBB469;
+    }
+    .bg_orange{
+        border-bottom: 1px solid #fff;
+    }
+    .financial_process h3{
+        font-size: 20px;
+    }
+    .link_a{
+        font-size: 18px;
+    }
+    .financial_process{
+        padding: 30px 0 30px 40px;
+    }
+    .other_services h2{
+        font-size: 22px;
+    }
+    .newses_{
+        font-size: 30px;
+    }
+    .newses_p{
+        font-size: 16px;
+    }
+    .news_boxs_items{
+        width: 48%;
+    }
+    .long_box{
+        margin-bottom: 0;
+    }
+    .news_boxs_items{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .service_block_section .service_title{
+        font-size: 22px;
+    }
+    .serv_img{
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    .search_items {
+        width: 450px;
+    }
+    .search_pagination{
+        margin: 50px 0 0;
+    }
+}
+@media(max-width: 767px){
+    .hero_section {
+        height: 500px;
+    }
+    .main_txt,
+    .financial_info {
+        width: 100%;
+    }
+    .main_title{
+        font-size: 25px;
+    }
+    
+    .statistic_img{
+        width: 350px;
+    }
+    .partner_wrapper{
+        flex-direction: column-reverse;
+    }
+    .partner_items{
+        width: 100%;
+    }
+    .partner_img{
+        height: 400px;
+    }
+    .partner_txt{
+        padding: 30px;
+    }
+    .service_title{
+        font-size: 14px;
+    }
+    .search_input{
+        width: 100px;
+    }
+    .how_to_help{
+        padding: 35px 20px;
+    }
+    .help_title{
+        font-size: 20px;
+    }
+    .join_{
+        width: 100%;
+    }
+    .border_{
+        border: none;
+    }
+    br {
+        display: none;
+    }
+    .rating_box{
+        padding: 20px 0;
+    }
+    .subscribe_form{
+        flex-direction: column;
+    }
+    .subscribe_input,
+    .subscribe_button {
+        width: 100%;
+    }
+    .subscribe_button{
+        margin-top: 20px;
+    }
+    .application_form{
+        width: 100%;
+    }
+    .application_title{
+        font-size: 20px;
+    }
+    .input_items{
+        width: 100%;
+    }
+    .upload_file{
+        text-align: center;
+    }
+    .application_input_box{
+        flex-direction: column;
+    }
+    .contact_inputs input{
+        height: 55px;
+    }
+    .contact_txt{
+        height: 200px;
+    }
+    .financial_process{
+        padding: 30px 0;
+    }
+    .service_title_ h2{
+        padding: 0 20px;
+    }
+    .newses_{
+        font-size: 22px;
+    }
+    .search_items{
+        width: 300px;
+    }
+}
+
+
+
+@media(max-width: 475px){
+    .statistic_img{
+        display: none;
+    }
+    .financial_info{
+        text-align: center;
+    }
+    .contact_items p{
+        font-size: 14px;
+    }
+    .contact_items img{
+        width: 20px;
+    }
+}
